@@ -1,4 +1,4 @@
-##Music Recommendation System
+#Music Recommendation System<br>
 This repository contains a Python-based recommendation engine designed to suggest songs to users using two primary approaches: Popularity-based filtering and Item-similarity-based collaborative filtering.
 
 ## Project Overview
